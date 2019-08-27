@@ -5,7 +5,7 @@
 #   Created by Mohammed Ataa on 24/08/19.
 #   Copyright © 2019 Ataago. All rights reserved.
 #   
-#   Clasifier - Decision Tree
+#   Clasifier - Decision Tree from sklearn
 #   Collect Training Data -> Train Clasifier -> make Predictions
 #   
 
