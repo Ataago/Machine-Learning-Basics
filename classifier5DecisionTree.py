@@ -28,6 +28,8 @@
 ########################################################################
 
 
+
+
 # last column is the training data label
 training_data = [
     ['Green', 3, 'Apple'],
@@ -35,7 +37,9 @@ training_data = [
     ['Red', 1, 'Grape'],
     ['Red', 1, 'Grape'],
     ['Yellow', 3, 'Lemon'],
-    ['Yellow', 4, 'Lemon']
+    ['Yellow', 4, 'Lemon'],
+    ['Orange', 4, 'Orange'],
+    ['Yellow', 5, 'Orange']
 ]
 
 testing_data = [
