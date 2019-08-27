@@ -1,4 +1,6 @@
 # Machine-Learning-Basics
- Machine Learning Recipes by Google Developers.
+ Machine Learning Recipes by Google Developers to learn Supervised learning by Classification 
  
- ![test](https://github.com/Ataago/Machine-Learning-Basics/blob/master/Images/1.png)
+ Learing how to use sklearn module to understand classification
+ Implementing  K neighbours classifier from Scratch
+ Implementing CART Decision Tree form Scratch
