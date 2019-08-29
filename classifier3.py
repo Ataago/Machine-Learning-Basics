@@ -16,11 +16,11 @@ from sklearn.model_selection import train_test_split
 
 
 # Collecting Data
-iris = datasets.load_iris()
+iris = datasets.load_iris()     # https://en.wikipedia.org/wiki/Iris_flower_data_set
 x = iris.data       # Features
 y = iris.target     # Labels
 
-
+print(iris)
 # Splitting data using sklearn lib functions
 x_train, x_test, y_train, y_test = train_test_split(x, y, test_size = .5)
 
